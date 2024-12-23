@@ -22,7 +22,7 @@
 
 (define help
 "~a: Daemon that will trigger a desktop notification with the configured\
-period reminding you something.
+ period reminding you something.
 
 USAGE:
 \tguile -e '(reminder)' -c configuration.scm
